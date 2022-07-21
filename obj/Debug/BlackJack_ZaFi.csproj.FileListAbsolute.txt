@@ -1,0 +1,8 @@
+C:\Users\ZANO\source\repos\BlackJack_ZaFi\BlackJack_ZaFi\bin\Debug\BlackJack_ZaFi.exe.config
+C:\Users\ZANO\source\repos\BlackJack_ZaFi\BlackJack_ZaFi\bin\Debug\BlackJack_ZaFi.exe
+C:\Users\ZANO\source\repos\BlackJack_ZaFi\BlackJack_ZaFi\bin\Debug\BlackJack_ZaFi.pdb
+C:\Users\ZANO\source\repos\BlackJack_ZaFi\BlackJack_ZaFi\obj\Debug\BlackJack_ZaFi.csproj.AssemblyReference.cache
+C:\Users\ZANO\source\repos\BlackJack_ZaFi\BlackJack_ZaFi\obj\Debug\BlackJack_ZaFi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZANO\source\repos\BlackJack_ZaFi\BlackJack_ZaFi\obj\Debug\BlackJack_ZaFi.csproj.CoreCompileInputs.cache
+C:\Users\ZANO\source\repos\BlackJack_ZaFi\BlackJack_ZaFi\obj\Debug\BlackJack_ZaFi.exe
+C:\Users\ZANO\source\repos\BlackJack_ZaFi\BlackJack_ZaFi\obj\Debug\BlackJack_ZaFi.pdb
